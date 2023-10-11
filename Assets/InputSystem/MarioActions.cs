@@ -25,12 +25,20 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
     ""maps"": [
         {
             ""name"": ""gameplay"",
+<<<<<<< HEAD
             ""id"": ""556ae62c-29fc-4002-8818-7296c933718a"",
+=======
+            ""id"": ""8f82d555-4a49-452e-9274-3092048b29a1"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
             ""actions"": [
                 {
                     ""name"": ""move"",
                     ""type"": ""Value"",
+<<<<<<< HEAD
                     ""id"": ""59f439a7-b500-46c3-99c6-44131fc99ff6"",
+=======
+                    ""id"": ""600ec77f-d012-4fad-a7d3-d313b941f380"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""expectedControlType"": ""Axis"",
                     ""processors"": """",
                     ""interactions"": """",
@@ -39,7 +47,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""jump"",
                     ""type"": ""Button"",
+<<<<<<< HEAD
                     ""id"": ""6067b426-f05b-4097-a962-28d9dbe9af8d"",
+=======
+                    ""id"": ""4795e271-90bf-4975-91d7-b6fa5cda0fe8"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """",
@@ -48,7 +60,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""jumphold"",
                     ""type"": ""Button"",
+<<<<<<< HEAD
                     ""id"": ""cdba19fd-3c53-44dd-ac1f-caa7cf095e96"",
+=======
+                    ""id"": ""f3ddc551-5a06-4f2b-84bc-22bef8a8837f"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": ""Hold(duration=0.3)"",
@@ -57,16 +73,26 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""click"",
                     ""type"": ""Button"",
+<<<<<<< HEAD
                     ""id"": ""05fc799e-54be-4a5d-a4c0-ff19e04587d1"",
+=======
+                    ""id"": ""193bbaab-08ad-4a37-a97d-5af08d564b60"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
                 },
                 {
+<<<<<<< HEAD
                     ""name"": ""point"",
                     ""type"": ""Value"",
                     ""id"": ""adce857d-f872-4380-b796-1f2e979a1a74"",
+=======
+                    ""name"": ""Point"",
+                    ""type"": ""Value"",
+                    ""id"": ""ef9db444-e4de-4385-9d82-c73341575f05"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
                     ""interactions"": """",
@@ -76,7 +102,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
             ""bindings"": [
                 {
                     ""name"": ""1D Axis"",
+<<<<<<< HEAD
                     ""id"": ""a3e98c6b-2560-4bd4-b252-c511a3294ed2"",
+=======
+                    ""id"": ""be2f73a5-f5d4-4824-85b0-68571b9ae881"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""path"": ""1DAxis"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -87,7 +117,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""negative"",
+<<<<<<< HEAD
                     ""id"": ""2fd13a71-c5d1-4222-91a7-aa38b0d13a01"",
+=======
+                    ""id"": ""ca3005b3-6a52-42fa-b345-0515f0d1866d"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -98,7 +132,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": ""positive"",
+<<<<<<< HEAD
                     ""id"": ""e1a7b3fc-0c02-4055-949d-4d946812e51f"",
+=======
+                    ""id"": ""73865db3-9198-4586-aef2-eb7dc2a58c93"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
@@ -109,67 +147,117 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
+<<<<<<< HEAD
                     ""id"": ""5e2e2474-3990-4adf-8757-e2796a37dce7"",
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": ""Press"",
                     ""processors"": """",
                     ""groups"": ""marioActions"",
+=======
+                    ""id"": ""27389b68-237c-4ea9-8f75-a2dc6c59b2e2"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": ""Press"",
+                    ""processors"": """",
+                    ""groups"": ""SuperMarioBro"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""action"": ""jump"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": """",
+<<<<<<< HEAD
                     ""id"": ""e7bb0542-3fc0-46c3-b571-a2bd364a876a"",
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""marioActions"",
+=======
+                    ""id"": ""dea3e88c-d6dc-49b7-89fa-5bf24dae84ec"",
+                    ""path"": ""<Keyboard>/space"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""SuperMarioBro"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""action"": ""jumphold"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": """",
+<<<<<<< HEAD
                     ""id"": ""6fd07642-6bda-4ab6-af3a-62f6ca7aba9a"",
                     ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""marioActions"",
+=======
+                    ""id"": ""418938ad-bddb-49c8-bb47-ba3ee8e08303"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""SuperMarioBro"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""action"": ""click"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": ""One Modifier"",
+<<<<<<< HEAD
                     ""id"": ""2230a320-0719-4292-83d1-7823ffe34e20"",
+=======
+                    ""id"": ""1f3bd3e1-e81c-49ff-a974-c94f2d0942b8"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""path"": ""OneModifier"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
+<<<<<<< HEAD
                     ""action"": ""point"",
+=======
+                    ""action"": ""Point"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""isComposite"": true,
                     ""isPartOfComposite"": false
                 },
                 {
                     ""name"": ""modifier"",
+<<<<<<< HEAD
                     ""id"": ""f984b716-0ddf-4532-9de2-5f1d4e573ef1"",
                     ""path"": ""<Mouse>/leftButton"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""marioActions"",
                     ""action"": ""point"",
+=======
+                    ""id"": ""f4f616b5-d331-4e11-96d2-bd9b7c8a11bb"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""SuperMarioBro"",
+                    ""action"": ""Point"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 },
                 {
                     ""name"": ""binding"",
+<<<<<<< HEAD
                     ""id"": ""0181c9aa-79fb-4414-9bfd-33b13400bf3e"",
                     ""path"": ""<Mouse>/position"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""marioActions"",
                     ""action"": ""point"",
+=======
+                    ""id"": ""57f7b64a-3661-4a67-86d5-d77a49063c76"",
+                    ""path"": ""<Mouse>/pointerId"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""SuperMarioBro"",
+                    ""action"": ""Point"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
                 }
@@ -178,8 +266,13 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
     ],
     ""controlSchemes"": [
         {
+<<<<<<< HEAD
             ""name"": ""marioActions"",
             ""bindingGroup"": ""marioActions"",
+=======
+            ""name"": ""SuperMarioBro"",
+            ""bindingGroup"": ""SuperMarioBro"",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
             ""devices"": [
                 {
                     ""devicePath"": ""<Keyboard>"",
@@ -201,7 +294,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
         m_gameplay_jump = m_gameplay.FindAction("jump", throwIfNotFound: true);
         m_gameplay_jumphold = m_gameplay.FindAction("jumphold", throwIfNotFound: true);
         m_gameplay_click = m_gameplay.FindAction("click", throwIfNotFound: true);
+<<<<<<< HEAD
         m_gameplay_point = m_gameplay.FindAction("point", throwIfNotFound: true);
+=======
+        m_gameplay_Point = m_gameplay.FindAction("Point", throwIfNotFound: true);
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     }
 
     public void Dispose()
@@ -267,7 +364,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
     private readonly InputAction m_gameplay_jump;
     private readonly InputAction m_gameplay_jumphold;
     private readonly InputAction m_gameplay_click;
+<<<<<<< HEAD
     private readonly InputAction m_gameplay_point;
+=======
+    private readonly InputAction m_gameplay_Point;
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     public struct GameplayActions
     {
         private @MarioActions m_Wrapper;
@@ -276,7 +377,11 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
         public InputAction @jump => m_Wrapper.m_gameplay_jump;
         public InputAction @jumphold => m_Wrapper.m_gameplay_jumphold;
         public InputAction @click => m_Wrapper.m_gameplay_click;
+<<<<<<< HEAD
         public InputAction @point => m_Wrapper.m_gameplay_point;
+=======
+        public InputAction @Point => m_Wrapper.m_gameplay_Point;
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
         public InputActionMap Get() { return m_Wrapper.m_gameplay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -298,9 +403,15 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
             @click.started += instance.OnClick;
             @click.performed += instance.OnClick;
             @click.canceled += instance.OnClick;
+<<<<<<< HEAD
             @point.started += instance.OnPoint;
             @point.performed += instance.OnPoint;
             @point.canceled += instance.OnPoint;
+=======
+            @Point.started += instance.OnPoint;
+            @Point.performed += instance.OnPoint;
+            @Point.canceled += instance.OnPoint;
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
         }
 
         private void UnregisterCallbacks(IGameplayActions instance)
@@ -317,9 +428,15 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
             @click.started -= instance.OnClick;
             @click.performed -= instance.OnClick;
             @click.canceled -= instance.OnClick;
+<<<<<<< HEAD
             @point.started -= instance.OnPoint;
             @point.performed -= instance.OnPoint;
             @point.canceled -= instance.OnPoint;
+=======
+            @Point.started -= instance.OnPoint;
+            @Point.performed -= instance.OnPoint;
+            @Point.canceled -= instance.OnPoint;
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
         }
 
         public void RemoveCallbacks(IGameplayActions instance)
@@ -337,6 +454,7 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
         }
     }
     public GameplayActions @gameplay => new GameplayActions(this);
+<<<<<<< HEAD
     private int m_marioActionsSchemeIndex = -1;
     public InputControlScheme marioActionsScheme
     {
@@ -344,6 +462,15 @@ public partial class @MarioActions: IInputActionCollection2, IDisposable
         {
             if (m_marioActionsSchemeIndex == -1) m_marioActionsSchemeIndex = asset.FindControlSchemeIndex("marioActions");
             return asset.controlSchemes[m_marioActionsSchemeIndex];
+=======
+    private int m_SuperMarioBroSchemeIndex = -1;
+    public InputControlScheme SuperMarioBroScheme
+    {
+        get
+        {
+            if (m_SuperMarioBroSchemeIndex == -1) m_SuperMarioBroSchemeIndex = asset.FindControlSchemeIndex("SuperMarioBro");
+            return asset.controlSchemes[m_SuperMarioBroSchemeIndex];
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
         }
     }
     public interface IGameplayActions

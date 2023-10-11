@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 guid: f1bde3f95d8d049e59a4208ea4358c51
 TextureImporter:
+<<<<<<< HEAD
   internalIDToNameTable:
   - first:
       213: 21300000
@@ -266,6 +267,9 @@ TextureImporter:
   - first:
       213: 21300174
     second: fire_mario_climb_2
+=======
+  internalIDToNameTable: []
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -301,18 +305,31 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
+<<<<<<< HEAD
     wrapU: 0
     wrapV: 0
     wrapW: 0
+=======
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
+<<<<<<< HEAD
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
+=======
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -327,9 +344,15 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
+<<<<<<< HEAD
   applyGammaDecoding: 1
   swizzle: 50462976
   cookieLightType: 1
+=======
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -345,7 +368,11 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+<<<<<<< HEAD
     buildTarget: Standalone
+=======
+    buildTarget: WebGL
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -358,6 +385,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+<<<<<<< HEAD
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -385,6 +413,9 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: WebGL
+=======
+    buildTarget: Standalone
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -413,6 +444,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+<<<<<<< HEAD
       name: mario_0
       rect:
         serializedVersion: 2
@@ -519,6 +551,9 @@ TextureImporter:
       weights: []
     - serializedVersion: 2
       name: mario_5
+=======
+      name: mario_stand_left
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 181
@@ -532,14 +567,23 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: a2305410000000000800000000000000
       internalID: 21300010
+=======
+      spriteID: 508104b38d60dc646afa9e914c413547
+      internalID: -1350665917
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: small_mario_stand
+=======
+      name: mario_stand_right
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 211
@@ -553,14 +597,23 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: c2305410000000000800000000000000
       internalID: 21300012
+=======
+      spriteID: 9ddffd24e080c564c80e26d722ee9c3c
+      internalID: 1302001285
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: small_mario_run_1
+=======
+      name: mario_walk_right1
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 241
@@ -574,14 +627,23 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: e2305410000000000800000000000000
       internalID: 21300014
+=======
+      spriteID: 933c067a0d1e0244eaf36f8b8c34f99b
+      internalID: 1987862235
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: small_mario_run_2
+=======
+      name: mario_walk_right2
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 272
@@ -595,14 +657,23 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 03305410000000000800000000000000
       internalID: 21300016
+=======
+      spriteID: d1cae5b1b4ebd324e9221be48e6e8a02
+      internalID: -58059924
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: small_mario_run_3
+=======
+      name: mario_walk_right3
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 300
@@ -616,13 +687,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 23305410000000000800000000000000
       internalID: 21300018
+=======
+      spriteID: aaf2eb76fe1d1b24d99e99e339a79498
+      internalID: 1371600887
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: small_mario_stop
       rect:
         serializedVersion: 2
@@ -645,6 +722,9 @@ TextureImporter:
       weights: []
     - serializedVersion: 2
       name: small_mario_jump
+=======
+      name: mario_jump
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       rect:
         serializedVersion: 2
         x: 359
@@ -658,13 +738,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 63305410000000000800000000000000
       internalID: 21300022
+=======
+      spriteID: 2fc913f359d0027468e543138864ec3d
+      internalID: 1771587161
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: mario_12
       rect:
         serializedVersion: 2
@@ -943,6 +1029,13 @@ TextureImporter:
         serializedVersion: 2
         x: 361
         y: 142
+=======
+      name: mario_skid
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 172
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
         width: 14
         height: 16
       alignment: 0
@@ -952,13 +1045,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: 25305410000000000800000000000000
       internalID: 21300050
+=======
+      spriteID: 49b042615009a1d4492972535e9a90d4
+      internalID: -1341699424
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
+<<<<<<< HEAD
       name: mario_26
       rect:
         serializedVersion: 2
@@ -1577,11 +1676,23 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: mario_die
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< HEAD
       spriteID: e8305410000000000800000000000000
       internalID: 21300110
       vertices: []
@@ -2256,6 +2367,10 @@ TextureImporter:
       bones: []
       spriteID: ec305410000000000800000000000000
       internalID: 21300174
+=======
+      spriteID: 92e2b673c9eb8eb4cba40eaa24abe309
+      internalID: 318461303
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       vertices: []
       indices: 
       edges: []
@@ -2263,7 +2378,11 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 
+=======
+    spriteID: 5e97eb03825dee720800000000000000
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     internalID: 0
     vertices: []
     indices: 
@@ -2271,6 +2390,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< HEAD
       big_mario_climb_1: 21300108
       big_mario_climb_2: 21300110
       big_mario_crouch: 21300078
@@ -2359,6 +2479,16 @@ TextureImporter:
       small_mario_swim_2: 21300042
       small_mario_swim_3: 21300044
       small_mario_swim_4: 21300046
+=======
+      mario_die: 318461303
+      mario_jump: 1771587161
+      mario_skid: -1341699424
+      mario_stand_left: -1350665917
+      mario_stand_right: 1302001285
+      mario_walk_right1: 1987862235
+      mario_walk_right2: -58059924
+      mario_walk_right3: 1371600887
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

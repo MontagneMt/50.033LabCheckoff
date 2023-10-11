@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: 54b430a976fa65845b619b655f96efd4
+=======
+  productGUID: 7912e8d5972e8d448a6e4881c340a6ae
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: LabProject
+=======
+  productName: Week1new
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -625,14 +633,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: LabProject
+=======
+  metroPackageName: Week1new
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: LabProject
+=======
+  metroApplicationDescription: Week1new
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -698,6 +714,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
+<<<<<<< HEAD
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: 76a5dfdb-87b6-4f99-8590-13cdd35f75a5
@@ -705,6 +722,15 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: LabProject
   organizationId: partymesiah
+=======
+  activeInputHandler: 2
+  windowsGamepadBackendHint: 0
+  cloudProjectId: 
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: 
+  organizationId: 
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

@@ -152,7 +152,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
+<<<<<<< HEAD
       "version": "2.0.20",
+=======
+      "version": "2.0.18",
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -160,6 +164,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.ide.vscode": {
       "version": "1.2.5",
       "depth": 0,
@@ -167,6 +172,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
     "com.unity.inputsystem": {
       "version": "1.7.0",
       "depth": 0,

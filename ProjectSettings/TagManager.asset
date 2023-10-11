@@ -5,9 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+<<<<<<< HEAD
   - Obstacles
   - Enemies
   - DeadEnemies
+=======
+  - Enemy
+  - QuestionBlock
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   layers:
   - Default
   - TransparentFX
@@ -15,11 +20,19 @@ TagManager:
   - Ground
   - Water
   - UI
+<<<<<<< HEAD
   - Enemies
   - Obstacles
   - Player
   - Interactive
   - pipe
+=======
+  - Obstacles
+  - Enemies
+  - 
+  - 
+  - 
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
   - 
   - 
   - 
@@ -45,6 +58,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Castle
     uniqueID: 3665785109
     locked: 0
+=======
+>>>>>>> 61e7f24223104f05955f697e592929f862e9089a
